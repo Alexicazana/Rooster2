@@ -1,4 +1,4 @@
-import React, { Component } from 'reat';
+import React, { Component } from 'react';
 import logo from './roosterlogo.jpeg';
 import './App.css';
 
