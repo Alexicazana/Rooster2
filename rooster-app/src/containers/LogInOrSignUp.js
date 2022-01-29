@@ -1,6 +1,6 @@
 import React from 'react'
 import Paper from '@material-ui/core/Paper';
-import Tabs from '@material-ui/core/Paprt';
+import Tabs from '@material-ui/core/Paper';
 import Tab from '@material-ui/core/Tab';
 
 const SignInOutContainer=()=> {
