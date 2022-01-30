@@ -93,7 +93,7 @@ export const NavBtn = styled.nav`
     @media screen and (max-width: 768px) {
         display: none;
     }
-`
+`;
 
 export const NavBtnLink = styled(LinkR)`
     border-radius: 50px;
@@ -113,4 +113,4 @@ export const NavBtnLink = styled(LinkR)`
         background: #124559;
         color: #EFF6E0;
     }
-`
+`;
