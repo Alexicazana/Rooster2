@@ -1,18 +1,9 @@
-import React, { Component } from 'react';
-import logo from './roosterlogo.jpeg';
+import React from 'react';
 import './App.css';
-import Navication from './components/NavBar';
-import NavBar from './components/NavBar';
+import Home from './components/pages/Home';
 
-class App extends Component {
-  render() {
-    return (
-      <div>
-        <NavBar>
-
-        </NavBar>
-      </div>
-    );
-  }
+function App() {
+  return <Home />;
 }
+
 export default App;
