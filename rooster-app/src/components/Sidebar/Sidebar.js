@@ -7,6 +7,15 @@ const Sidebar = () => {
         <Icon>
             <CloseIcon/>
         </Icon>
+        <SidebarWrapper>
+            <SidebarMenu>
+                <SidebarLink to="Home">Home</SidebarLink>
+                <SidebarLink to="Alarms">Alarms</SidebarLink>
+            </SidebarMenu>
+            <SideBtmWrap>
+                <SidebarRoute to>Sign In</SidebarRoute>
+            </SideBtmWrap>
+        </SidebarWrapper>
     </SidebarContainer>
   );
 };
