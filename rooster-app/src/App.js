@@ -3,7 +3,6 @@ import logo from './roosterlogo.jpeg';
 import './App.css';
 import NavBar from './components/NavBar';
 
-
 class App extends Component {
   render() {
     return (
@@ -14,6 +13,5 @@ class App extends Component {
       </div>
     );
   }
-
 }
 export default App;
