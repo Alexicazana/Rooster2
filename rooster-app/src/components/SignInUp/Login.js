@@ -4,7 +4,6 @@ import React from 'react'
 const Login=()=>{
 
     const paperStyle={padding:'20px', height:'33vh', width:300, margin:"0 auto"}
-    const avatarStyle={baclgroundColor:'primary'}
     const btStyle={margin:'8px 0'}
 
     return(

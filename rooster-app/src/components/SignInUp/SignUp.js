@@ -1,4 +1,4 @@
-import { Grid, Paper, TextField, Typography, Button, FormControl, FormControlLabel, Checkbox } from '@material-ui/core';
+import { Grid, Paper, TextField, Typography, Button, FormControlLabel, Checkbox } from '@material-ui/core';
 import React from 'react'
 
 const SignUp=()=> {
