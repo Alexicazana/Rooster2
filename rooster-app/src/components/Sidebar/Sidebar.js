@@ -1,7 +1,2 @@
-import React from 'react';
-
-const Sidebar = () => {
-  return <div></div>;
-};
-
-export default Sidebar;
+import styled from "styled-components"
+import {FaTimes} from 'react-icons/fa'
