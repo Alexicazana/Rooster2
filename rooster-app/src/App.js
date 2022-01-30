@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 import logo from './roosterlogo.jpeg';
 import { CssBaseline } from '@material-ui/core/CssBaseline';
@@ -12,6 +13,7 @@ class App extends Component {
       </div>
     );
   }
+
 }
 
 export default App;
