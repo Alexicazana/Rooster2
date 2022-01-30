@@ -1,7 +1,7 @@
 import React from 'react';
 
-const NavBar = () => {
+const Sidebar = () => {
   return <div></div>;
 };
 
-export default NavBar;
+export default Sidebar;
