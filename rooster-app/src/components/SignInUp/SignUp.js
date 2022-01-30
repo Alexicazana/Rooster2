@@ -15,10 +15,10 @@ const SignUp=()=> {
                         <Typography variant='caption' gutterBottom>Please fill this form</Typography>
                     </Grid>
                     <form>
-                        <TextField fullWidth label='Username' placeholder="Enter your username"/>
-                        <TextField fullWidth label='Phone Number' placeholder="Enter your phone number"/>
-                        <TextField fullWidth label='Password' placeholder="Enter your password"/>
-                        <TextField fullWidth label='Confirm Password' placeholder="Please confirm your password"/>
+                        <TextField fullWidth id='username' label='Username' placeholder="Enter your username"/>
+                        <TextField fullWidth id='phoneNumber' label='Phone Number' placeholder="Enter your phone number"/>
+                        <TextField fullWidth id='password' label='Password' placeholder="Enter your password"/>
+                        <TextField fullWidth id='confirmPassword' label='Confirm Password' placeholder="Please confirm your password"/>
 
                         <FormControlLabel
                             control={<Checkbox name="checkedA"/>}
